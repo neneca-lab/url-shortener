@@ -8,7 +8,7 @@ Este repositório contém uma aplicação serverless desenvolvida em **Java** co
 - Integração com serviços da AWS para operação serverless.
 - Manipulação eficiente de dados JSON.
 
-- ## 🔧 Tecnologias Utilizadas
+## 🔧 Tecnologias Utilizadas
 
 - **Java**: Linguagem de programação principal do projeto.
 - **Maven**: Gerenciador de dependências e build.
