@@ -22,6 +22,6 @@ Este repositório contém uma aplicação serverless desenvolvida em **Java** co
 
 4. Faça o deploy para a AWS utilizando as ferramentas de sua preferência, como AWS CLI ou AWS SAM.
 ---
-## ✍️ <strong>Desenvolvedor</strong> <a name = "authors"></a>
+## 👨🏽‍💻 <strong>Desenvolvedor</strong> <a name = "authors"></a>
 
 - [@neneca-lab](https://github.com/neneca-lab) 
